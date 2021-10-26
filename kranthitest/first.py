@@ -1,1 +1,3 @@
-print("Hello World from Git")
+
+def print():
+    print("Hello World from Git")
