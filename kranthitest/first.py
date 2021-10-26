@@ -1,3 +1,6 @@
 
-def print():
-    print("Hello World from Git")
+def customPrint():
+    print("Hello World from Git", "Hi")
+
+
+customPrint()
